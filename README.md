@@ -1,2 +1,6 @@
-# VirtualWire
-RF Arduino Library 1.6 Compatibility
+# Virtual Wire RF Library
+
+# CHANGELOG
+* Fixed arduino 1.6 Compatibility
+
+
